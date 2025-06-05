@@ -28,7 +28,7 @@ Every folder here reflects a new chapter in my Python growth 📈
 ## 🌌 Folder Structure
 
 ```bash
-python-playground/
+python-basic/
 ├── 01_basics/              # Core syntax, datatypes, conditionals, loops
 ├── 02_advanced/            # OOP, file handling, error management
 ├── 03_projects/            # Mini-projects & automation tools
