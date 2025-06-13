@@ -1,3 +1,5 @@
+# SIMPLE GAME OF TIC TAC TOE WILL PROGRSS LATER
+
 import time
 import sys
 import math
